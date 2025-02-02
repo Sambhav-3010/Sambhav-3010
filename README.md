@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on myself..........<br>👯 I’m looking to collaborate on group projects<br>🌱 I’m currently learning Machine Learning and Data Science<br>💬 Ask me about anything...... 🥱🥱🥱<br>⚡ Eat - Code - Sleep - Repeat
+🔭 I’m currently working on MERN Stack..........<br>👯 I’m looking to collaborate on group projects<br>🌱 I’m currently learning Machine Learning and Data Science<br>💬 Ask me about anything...... 🥱🥱🥱<br>⚡ Eat - Code - Sleep - Repeat
 
 
 ## 🌐 Socials:
