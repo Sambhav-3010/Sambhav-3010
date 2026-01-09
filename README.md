@@ -8,7 +8,7 @@ I’m a **B.Tech Computer Engineering student (CGPA: 9.46)** with a strong found
 - 💬 Ask me about **Java (DSA), MERN, Next.js, System Design**
 - ⚡ Eat · Code · Build · Repeat
 
-🌐 **Portfolio:** https://sambhav-mani-tripathi.tech/
+**Portfolio:** https://sambhav-mani-tripathi.tech
 
 ---
 
