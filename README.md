@@ -41,11 +41,3 @@ I’m a **B.Tech Computer Engineering student (CGPA: 9.46)** with a strong found
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![NeonDB](https://img.shields.io/badge/NeonDB-00E5FF?style=for-the-badge)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Sambhav-3010&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sambhav-3010&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhav-3010&theme=dark&hide_border=false&layout=compact)
