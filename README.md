@@ -1,18 +1,18 @@
-# 💫 About Me
+# About Me
 
-I'm a **Full Stack Developer** and **B.Tech Computer Engineering student (CGPA: 9.48)** at K.J. Somaiya School of Engineering, Mumbai. I build production-grade web applications with clean architecture, scalable backends, and modern JavaScript frameworks. Currently exploring Web3 and blockchain development on Ethereum alongside DevOps practices.
+Sambhav Mani Tripathi is a **Full Stack Developer** and **B.Tech Computer Engineering student (CGPA: 9.48)** at K.J. Somaiya School of Engineering, Mumbai. He builds production-grade web applications with clean architecture, scalable backends, and modern JavaScript frameworks. He is currently exploring Web3 and blockchain development on Ethereum alongside DevOps practices including Docker, NGINX, and cloud deployment.
 
-- 🔭 Currently working on **MERN Stack, Next.js, and Web3 projects**
-- 👯 Open to collaborating on **full-stack, Web3, and AI-driven products**
-- 🌱 Currently learning **Solidity, Ethereum, Docker, NGINX, and DevOps**
-- 💬 Ask me about **MERN, Next.js, System Design, Solidity, or Java DSA**
-- ⚡ Eat · Code · Build · Repeat
+- Currently working on **MERN Stack, Next.js, and Web3 projects**
+- Open to collaborating on **full-stack, Web3, and AI-driven products**
+- Currently learning **Solidity, Ethereum, Docker, NGINX, and DevOps**
+- Ask me about **MERN, Next.js, System Design, Solidity, or Java DSA**
+- Eat · Code · Build · Repeat
 
 **Portfolio:** [sambhav-mani-tripathi.tech](https://sambhav-mani-tripathi.tech)
 
 ---
 
-## 🌐 Socials
+## Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hey.sambhav30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sambhav-mani-tripathi/)
@@ -21,7 +21,7 @@ I'm a **Full Stack Developer** and **B.Tech Computer Engineering student (CGPA: 
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,7 +53,7 @@ I'm a **Full Stack Developer** and **B.Tech Computer Engineering student (CGPA: 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Sambhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sambhav-3010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sambhav-3010&theme=tokyonight&hide_border=true)
