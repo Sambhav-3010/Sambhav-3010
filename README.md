@@ -53,8 +53,16 @@ Sambhav Mani Tripathi is a **Full Stack Developer** and **B.Tech Computer Engine
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Sambhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sambhav-3010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sambhav-3010&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhav-3010&theme=tokyonight&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sambhav-3010&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sambhav-3010&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sambhav-3010&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
