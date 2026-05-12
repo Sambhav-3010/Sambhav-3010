@@ -57,9 +57,6 @@ Sambhav Mani Tripathi is a **Full Stack Developer** and **B.Tech Computer Engine
 
 <p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sambhav-3010&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p>
   <img src="https://streak-stats.demolab.com?user=Sambhav-3010&theme=tokyonight&hide_border=true" />
 </p>
 
